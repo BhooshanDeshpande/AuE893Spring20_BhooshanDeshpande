@@ -1,0 +1,2 @@
+set(joy_map_saver_MESSAGE_FILES "")
+set(joy_map_saver_SERVICE_FILES "/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/src/People_Detection/strands_navigation/joy_map_saver/srv/SaveMap.srv")

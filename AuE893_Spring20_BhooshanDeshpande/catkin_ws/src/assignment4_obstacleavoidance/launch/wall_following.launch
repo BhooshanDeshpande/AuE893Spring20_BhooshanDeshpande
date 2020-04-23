@@ -1,0 +1,8 @@
+<launch>
+  <arg name ="file" default="wall_follower_v2" doc="files available [wall_follower, wall_follower_v2(default)]"/>
+
+  <include file="$(find assignment4_obstacleavoidance)/launch/turtlebot3_wallfollowing.launch">
+  </include>
+
+  <node pkg="assignment4_obstacleavoidance" type="$(arg file).py" name="obstacle_avoidance"/>
+</launch>

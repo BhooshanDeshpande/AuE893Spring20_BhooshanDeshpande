@@ -1,0 +1,8 @@
+prefix=/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/devel
+
+Name: monitored_navigation
+Description: Description of monitored_navigation
+Version: 1.0.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

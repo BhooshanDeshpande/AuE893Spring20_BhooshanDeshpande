@@ -1,0 +1,2 @@
+set(marathon_reporter_MESSAGE_FILES "/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/src/People_Detection/strands_apps/marathon_reporter/msg/MarathonSession.msg")
+set(marathon_reporter_SERVICE_FILES "")

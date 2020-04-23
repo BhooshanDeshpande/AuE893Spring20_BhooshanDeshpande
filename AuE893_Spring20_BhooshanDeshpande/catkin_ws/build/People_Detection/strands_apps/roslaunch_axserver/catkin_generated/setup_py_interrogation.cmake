@@ -1,0 +1,6 @@
+set(roslaunch_axserver_SETUP_PY_VERSION "0.2.6")
+set(roslaunch_axserver_SETUP_PY_SCRIPTS "scripts/roslaunch_server.py")
+set(roslaunch_axserver_SETUP_PY_PACKAGES "")
+set(roslaunch_axserver_SETUP_PY_PACKAGE_DIRS "")
+set(roslaunch_axserver_SETUP_PY_MODULES "")
+set(roslaunch_axserver_SETUP_PY_MODULE_DIRS "")

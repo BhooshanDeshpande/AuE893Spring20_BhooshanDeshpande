@@ -1,0 +1,8 @@
+prefix=/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/install
+
+Name: fetch_calibration
+Description: Description of fetch_calibration
+Version: 0.7.14
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

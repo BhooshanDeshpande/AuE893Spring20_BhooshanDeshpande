@@ -1,0 +1,4 @@
+# generated from genmsg/cmake/pkg-msg-paths.cmake.develspace.in
+
+set(darknet_ros_msgs_MSG_INCLUDE_DIRS "/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/src/auefinals/darknet_ros/darknet_ros_msgs/msg;/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/devel/share/darknet_ros_msgs/msg")
+set(darknet_ros_msgs_MSG_DEPENDENCIES actionlib_msgs;geometry_msgs;sensor_msgs;std_msgs)

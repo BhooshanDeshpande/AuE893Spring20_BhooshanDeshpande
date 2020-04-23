@@ -1,0 +1,8 @@
+prefix=/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/install
+
+Name: people_velocity_tracker
+Description: Description of people_velocity_tracker
+Version: 1.1.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: easy_markers geometry_msgs kalman_filter people_msgs roslib rospy

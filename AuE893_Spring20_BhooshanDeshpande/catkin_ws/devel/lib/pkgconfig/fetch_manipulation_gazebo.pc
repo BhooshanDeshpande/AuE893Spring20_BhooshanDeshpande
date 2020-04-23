@@ -1,0 +1,8 @@
+prefix=/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/devel
+
+Name: fetch_manipulation_gazebo
+Description: Description of fetch_manipulation_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+<launch>
+  <include file="$(find apriltag_ros)/launch/continuous_detection.launch"/>
+  <node  pkg="assignment5_trackingandfollowing" name="following_tag" type="tagger.py"/>
+</launch>

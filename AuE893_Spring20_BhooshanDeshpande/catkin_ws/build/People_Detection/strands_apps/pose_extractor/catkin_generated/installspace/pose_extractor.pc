@@ -1,0 +1,8 @@
+prefix=/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/install
+
+Name: pose_extractor
+Description: Description of pose_extractor
+Version: 0.2.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

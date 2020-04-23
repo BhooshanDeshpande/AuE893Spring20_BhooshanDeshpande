@@ -270,7 +270,7 @@ if __name__ == '__main__':
 
         if not args.local:
             # environment at generation time
-            CMAKE_PREFIX_PATH = '/home/bhooshan/Desktop/Bhooshan-ubuntu/udemy_ws/devel;/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/devel;/home/bhooshan/Desktop/Bhooshan-ubuntu/catkin_ws/devel;/home/bhooshan/Desktop/Bhooshan-ubuntu/cable_robot_project/ros_ws/devel;/opt/ros/kinetic'.split(';')
+            CMAKE_PREFIX_PATH = '/home/bhooshan/autosim_ws/devel;/home/bhooshan/apriltag_ws/devel_isolated/apriltag_ros;/home/bhooshan/Desktop/Bhooshan-ubuntu/armlab/om_ws/devel;/home/bhooshan/Desktop/Bhooshan-ubuntu/f1tenth_ws/devel;/home/bhooshan/Desktop/Bhooshan-ubuntu/cable_robot_project/velodyne_ws/devel;/home/bhooshan/Desktop/Bhooshan-ubuntu/udemy_ws/devel;/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/devel;/home/bhooshan/Desktop/Bhooshan-ubuntu/catkin_ws/devel;/home/bhooshan/Desktop/Bhooshan-ubuntu/cable_robot_project/ros_ws/devel;/opt/ros/kinetic;/home/bhooshan/apriltag_ws/devel_isolated/apriltag'.split(';')
         else:
             # don't consider any other prefix path than this one
             CMAKE_PREFIX_PATH = []

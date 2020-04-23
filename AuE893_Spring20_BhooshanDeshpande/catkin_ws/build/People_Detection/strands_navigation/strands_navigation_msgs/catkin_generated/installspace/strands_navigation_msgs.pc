@@ -1,0 +1,8 @@
+prefix=/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/install
+
+Name: strands_navigation_msgs
+Description: Description of strands_navigation_msgs
+Version: 1.0.7
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

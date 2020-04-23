@@ -1,0 +1,6 @@
+set(state_checker_SETUP_PY_VERSION "0.2.6")
+set(state_checker_SETUP_PY_SCRIPTS "")
+set(state_checker_SETUP_PY_PACKAGES "sendemail")
+set(state_checker_SETUP_PY_PACKAGE_DIRS "src/sendemail")
+set(state_checker_SETUP_PY_MODULES "")
+set(state_checker_SETUP_PY_MODULE_DIRS "")

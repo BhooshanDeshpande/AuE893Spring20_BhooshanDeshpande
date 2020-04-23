@@ -1,0 +1,4 @@
+# generated from genmsg/cmake/pkg-msg-paths.cmake.develspace.in
+
+set(strands_navigation_msgs_MSG_INCLUDE_DIRS "/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/src/People_Detection/strands_navigation/strands_navigation_msgs/msg;/home/bhooshan/Desktop/Bhooshan-ubuntu/autonomy_science_systems/AuE893_Spring20_BhooshanDeshpande/AuE893_Spring20_BhooshanDeshpande/catkin_ws/devel/share/strands_navigation_msgs/msg")
+set(strands_navigation_msgs_MSG_DEPENDENCIES std_msgs;geometry_msgs;sensor_msgs;actionlib_msgs)
